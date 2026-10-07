@@ -1,0 +1,4 @@
+AT=OK\r\n
+ATI=OpenAI AT Modem Emulator\r\nOK\r\n
+AT+COPS=+COPS: 0,0,"TestOperator"\r\nOK\r\n
+AT+CPIN=+CPIN: READY\r\nOK\r\n
